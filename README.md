@@ -14,4 +14,4 @@ This is wallpapers for my rice
 # Wallpaper 6 
 ![screenshot](./Wallpaper6.jpg)
 # Wallpaper 7
-![screenshot](./Wallpaper6.png)
+![screenshot](./Wallpaper7.png)
